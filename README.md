@@ -130,5 +130,5 @@ Day 8 exercises provided hands-on practice using Terraform to:
 
 * [Terraform AWS Provider Documentation](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
 * AWS Terraform Full Course - #30daysofawsterraform https://www.youtube.com/watch?v=xUtGqC-NXJE&list=PLl4APkPHzsUXcfBSJDExYR-a4fQiZGmMp
-* Terraform `count` & `for_each` Tutorial, HashiCorp Docs.
+* ChatGPT
 * Terraform Outputs & For Expressions Documentation.
